@@ -3,6 +3,9 @@
     {
       "CountryId": "CI1",
       "CountryName": "India",
+      "CountryFlag": "https://cdn.pixabay.com/photo/2012/04/10/23/03/india-26828_640.png",
+      "Description": "India is a vast South Asian country with diverse terrain - from Himalayan peaks to Indian Ocean coastline - and a history reaching back 5 millennia. Known for its rich cultural heritage, vibrant festivals, and iconic landmarks, India offers a unique travel experience.",
+      "TourPrice": "$1500",
       "TouristPlaces": [
         {
           "PlaceId": "TP1",
@@ -79,6 +82,9 @@
     {
       "CountryId": "CI2",
       "CountryName": "France",
+      "CountryFlag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png",
+      "Description": "France, in Western Europe, is a country renowned for its cuisine, fashion, art, and culture. Famous for its landmarks like the Eiffel Tower and the Louvre Museum, France offers a rich blend of historical and modern attractions.",
+      "TourPrice": "$2500",
       "TouristPlaces": [
         {
           "PlaceId": "TP1",
@@ -155,6 +161,9 @@
     {
       "CountryId": "CI3",
       "CountryName": "Japan",
+      "CountryFlag": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
+      "Description": "Japan is an island country in East Asia, located in the northwest Pacific Ocean. It is known for its dense cities, imperial palaces, mountainous national parks, and thousands of shrines and temples. Tokyo, the capital, is famous for its skyscrapers, shopping, and vibrant pop culture.",
+      "TourPrice": "$3500",
       "TouristPlaces": [
         {
           "PlaceId": "TP1",
@@ -167,14 +176,14 @@
           "PlaceId": "TP2",
           "PlaceName": "Tokyo",
           "Location": "Kanto Region",
-          "image": "",
+          "image": "https://media.istockphoto.com/id/1390815938/photo/tokyo-city-in-japan.jpg?s=612x612&w=0&k=20&c=VHiC3TlbXkb-Yf6WUYjh825Y0nGMCTkNUa9j8X8rVfY=",
           "Description": "The bustling capital city of Japan, known for its skyscrapers, shopping districts, and vibrant nightlife."
         },
         {
           "PlaceId": "TP3",
           "PlaceName": "Kyoto",
           "Location": "Kansai Region",
-          "image": "https://media.istockphoto.com/id/1390815938/photo/tokyo-city-in-japan.jpg?s=612x612&w=0&k=20&c=VHiC3TlbXkb-Yf6WUYjh825Y0nGMCTkNUa9j8X8rVfY=",
+          "image": "",
           "Description": "A city famous for its classical Buddhist temples, gardens, imperial palaces, Shinto shrines, and traditional wooden houses."
         },
         {
@@ -231,6 +240,9 @@
     {
       "CountryId": "CI4",
       "CountryName": "Australia",
+      "CountryFlag": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
+      "Description": "Australia is a country and continent surrounded by the Indian and Pacific oceans. Its major cities – Sydney, Brisbane, Melbourne, Perth, Adelaide – are coastal, but its capital, Canberra, is inland. The country is known for its Sydney Opera House, Great Barrier Reef, unique wildlife, and vast outback.",
+      "TourPrice": "$3000",
       "TouristPlaces": [
         {
           "PlaceId": "TP1",
@@ -307,6 +319,9 @@
     {
       "CountryId": "CI5",
       "CountryName": "Italy",
+      "CountryFlag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/383px-Flag_of_Italy.svg.png",
+      "Description": "Italy, a European country with a long Mediterranean coastline, has left a powerful mark on Western culture and cuisine. Its capital, Rome, is home to the Vatican as well as landmark art and ancient ruins.",
+      "TourPrice": "$2300",
       "TouristPlaces": [
         {
           "PlaceId": "TP1",
